@@ -18,7 +18,7 @@
 
 #include <stdint.h>
 #include <stdbool.h>
-#include <intrin.h>
+#include <x86intrin.h>
 
 #define WHITE 0
 #define BLACK 1
